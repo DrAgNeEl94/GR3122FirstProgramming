@@ -1,0 +1,16 @@
+C:\Users\Acer\Documents\GB\GR3122FirstProgramming\GR3122FirstProgramming\Sem1Task1\bin\Debug\net6.0\Sem1Task1.exe
+C:\Users\Acer\Documents\GB\GR3122FirstProgramming\GR3122FirstProgramming\Sem1Task1\bin\Debug\net6.0\Sem1Task1.deps.json
+C:\Users\Acer\Documents\GB\GR3122FirstProgramming\GR3122FirstProgramming\Sem1Task1\bin\Debug\net6.0\Sem1Task1.runtimeconfig.json
+C:\Users\Acer\Documents\GB\GR3122FirstProgramming\GR3122FirstProgramming\Sem1Task1\bin\Debug\net6.0\Sem1Task1.dll
+C:\Users\Acer\Documents\GB\GR3122FirstProgramming\GR3122FirstProgramming\Sem1Task1\bin\Debug\net6.0\ref\Sem1Task1.dll
+C:\Users\Acer\Documents\GB\GR3122FirstProgramming\GR3122FirstProgramming\Sem1Task1\bin\Debug\net6.0\Sem1Task1.pdb
+C:\Users\Acer\Documents\GB\GR3122FirstProgramming\GR3122FirstProgramming\Sem1Task1\obj\Debug\net6.0\Sem1Task1.GlobalUsings.g.cs
+C:\Users\Acer\Documents\GB\GR3122FirstProgramming\GR3122FirstProgramming\Sem1Task1\obj\Debug\net6.0\Sem1Task1.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\GB\GR3122FirstProgramming\GR3122FirstProgramming\Sem1Task1\obj\Debug\net6.0\Sem1Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\GB\GR3122FirstProgramming\GR3122FirstProgramming\Sem1Task1\obj\Debug\net6.0\Sem1Task1.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\GB\GR3122FirstProgramming\GR3122FirstProgramming\Sem1Task1\obj\Debug\net6.0\Sem1Task1.AssemblyInfo.cs
+C:\Users\Acer\Documents\GB\GR3122FirstProgramming\GR3122FirstProgramming\Sem1Task1\obj\Debug\net6.0\Sem1Task1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\GB\GR3122FirstProgramming\GR3122FirstProgramming\Sem1Task1\obj\Debug\net6.0\Sem1Task1.dll
+C:\Users\Acer\Documents\GB\GR3122FirstProgramming\GR3122FirstProgramming\Sem1Task1\obj\Debug\net6.0\ref\Sem1Task1.dll
+C:\Users\Acer\Documents\GB\GR3122FirstProgramming\GR3122FirstProgramming\Sem1Task1\obj\Debug\net6.0\Sem1Task1.pdb
+C:\Users\Acer\Documents\GB\GR3122FirstProgramming\GR3122FirstProgramming\Sem1Task1\obj\Debug\net6.0\Sem1Task1.genruntimeconfig.cache
